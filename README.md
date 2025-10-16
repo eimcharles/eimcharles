@@ -6,8 +6,8 @@
 😃 More projects to come soon! 
 
 ### Current Initiaves
-Building a dynamic full stack ConctactCard app that makes use of CRUD operations. 
-Learning about AI and ML through the AI Agents course with Hugging face 🤗.
+Building a dynamic full stack ConctactCard app that makes use of CRUD operations. <br>
+Learning about AI and ML through the AI Agents course with Hugging face 🤗.<br>
 
 ## 
 [![Github Progress](https://github-readme-stats.vercel.app/api?username=eimcharles&show_icons=true&theme=dark)](https://github.com/eimcharles/github-readme-stats)
