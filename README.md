@@ -5,5 +5,9 @@
 🌱 I’m currently learning about data engineering, spring boot microservices and microsoft azure cloud computing.<br> 
 😃 More projects to come soon! 
 
+### Current Initiaves
+Building a dynamic full stack ConctactCard app that makes use of CRUD operations. 
+Learning about AI and ML through the AI Agents course with Hugging face 🤗.
+
 ## 
 [![Github Progress](https://github-readme-stats.vercel.app/api?username=eimcharles&show_icons=true&theme=dark)](https://github.com/eimcharles/github-readme-stats)
