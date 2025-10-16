@@ -7,7 +7,7 @@
 
 ### Current Initiaves
 Building a dynamic full stack ContactCard app that makes use of CRUD operations with Spring Boot and React. <br>
-Learning about AI and ML through the AI Agents course with Hugging face 🤗.<br>
+Learning and building AI Agents, with Hugging face AI agents course 🤗.<br>
 
 ## 
 [![Github Progress](https://github-readme-stats.vercel.app/api?username=eimcharles&show_icons=true&theme=dark)](https://github.com/eimcharles/github-readme-stats)
