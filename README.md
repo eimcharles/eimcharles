@@ -10,8 +10,8 @@ Building a dynamic full stack ContactCard app that makes use of CRUD operations 
 Learning and building AI Agents, with Hugging face AI agents course 🤗.<br>
 
 ### 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eimcharles&show_icons=true&count_private=true&include_all_commits=true&theme=dark)](https://github.com/eimcharles/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eimcharles&layout=compact&theme=dark)](https://github.com/eimcharles/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=eimcharles&theme=dark)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eimcharles&show_icons=true&count_private=true&include_all_commits=true&theme=dark)](https://github.com/eimcharles/github-readme-stats)<br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eimcharles&layout=compact&theme=dark)](https://github.com/eimcharles/github-readme-stats)<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=eimcharles&theme=dark)](https://git.io/streak-stats)<br>
 
 
