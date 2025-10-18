@@ -12,6 +12,4 @@ Learning and building AI Agents, with Hugging face AI agents course 🤗.<br>
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eimcharles&show_icons=true&count_private=true&include_all_commits=true&theme=dark" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimcharles&layout=compact&theme=dark" height="180em" />
-  <img src="https://streak-stats.demolab.com/?user=eimcharles&theme=dark" height="180em" />
 </div>
