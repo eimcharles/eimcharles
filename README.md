@@ -6,10 +6,6 @@
 😃 More projects to come soon! 
 
 ### Current Initiaves
-Building a dynamic full stack ContactCard app that makes use of CRUD operations with Spring Boot and React. <br>
+Building a dynamic full stack applications with Spring Boot and React. <br>
 Learning and building AI Agents, with Hugging face AI agents course 🤗.<br>
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eimcharles&show_icons=true&count_private=true&include_all_commits=true&theme=dark" height="180em" />
-</div>
+Learning about Data Engineering.<br>
