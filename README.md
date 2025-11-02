@@ -18,14 +18,14 @@ I'm a recent Software Engineering graduate from Concordia University.<br>
 ### Academic Projects  
 
 #### [Smartess](https://smartess.vercel.app/)
-An smart home management platform for residential communities that connects tenants and property owners through real-time monitoring, automated communication, and intelligent home automation as part of **the Capstone Project course (SOEN 490)** at Concordia University. 
+A smart home management platform for residential communities that connects tenants and property owners through real-time monitoring, automated communication, and intelligent home automation as part of **the Capstone Project course (SOEN 490)** at Concordia University. 
 
 #### [Interactive 3D Graphics Scene](https://github.com/eimcharles/Interactive3DGraphicsScene)
 An interactive 3D graphics application as part of  **the Computer Graphics course (COMP 371)** at Concordia University.
 
 #### [Butler](https://github.com/eimcharles/Butler)
-Condo management application offering a robust solution for efficiently managing condominium properties as part of **the Software Engineering Team Design Project course (SOEN 390)** at Concordia University.  
+A Condo management application offering a robust solution for efficiently managing condominium properties as part of **the Software Engineering Team Design Project course (SOEN 390)** at Concordia University.  
 
 #### [Flight Tracking System](https://github.com/eimcharles/FlightTrackingSystem)
-Flight Tracking System that allows different types of clients to view, register, and manage flight information as part of **the Software Requirements and Specifications course (SOEN 342)** at Concordia University. 
+A Flight Tracking System that allows different types of clients to view, register, and manage flight information as part of **the Software Requirements and Specifications course (SOEN 342)** at Concordia University. 
 
