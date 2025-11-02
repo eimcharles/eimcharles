@@ -21,8 +21,8 @@ An smart home management platform for residential communities that connects tena
 An interactive 3D graphics application as part of  **the Computer Graphics course (COMP 371)** at Concordia University.
 
 #### [Butler](https://github.com/eimcharles/Butler)
-Condo management application offering a robust solution for efficiently managing condominium properties as part of **the Software Engineering Team Design Project course (SOEN 390).** 
+Condo management application offering a robust solution for efficiently managing condominium properties as part of **the Software Engineering Team Design Project course (SOEN 390)** at Concordia University.  
 
 #### [Flight Tracking System](https://github.com/eimcharles/FlightTrackingSystem)
-Flight Tracking System that allows different types of clients to view, register, and manage flight information as part of **SOEN 342 (Software Requirements and Specifications)**.
+Flight Tracking System that allows different types of clients to view, register, and manage flight information as part of **the Software Requirements and Specifications course** at Concordia University. 
 
