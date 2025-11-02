@@ -1,10 +1,28 @@
-## Hi, I'm Charles 👋 ! 
+### Hi, I'm Charles 👋 ! 
 
-💻 I'm a Software Engineering graduate from Concordia University.<br>
-📍 I recently completed my [undergraduate capstone project](https://smartess.vercel.app/). <br>
-🌱 I’m currently learning about data engineering, spring boot microservices and microsoft azure cloud computing.<br> 
+I'm a recent Software Engineering graduate from Concordia University.<br>
 
-### Current Initiatives
-Building a dynamic full stack applications with Spring Boot and React. <br>
-Learning and building AI Agents, with Hugging face AI agents course 🤗.<br>
-Learning about Data Engineering.<br>
+### Continuous Development 
+
+#### Current Initiatives
+- Improving my **Spring Boot** knowledge to build and support robust **backend applications**   
+- Improving my **React** and **Angular** skills to create dynamic and responsive **frontend applications**  
+
+#### New Initiatives
+  - Learning and building **AI agents** with Hugging Face.
+  - **Exploring data engineering**, including data pipelines, storage solutions, and ETL processes.
+
+### Academic Projects  
+
+#### [Smartess](https://smartess.vercel.app/)
+An smart home management platform for residential communities that connects tenants and property owners through real-time monitoring, automated communication, and intelligent home automation as part of **the Capstone Project course (SOEN 490)** at Concordia University. 
+
+#### [Interactive 3D Graphics Scene](https://github.com/eimcharles/Interactive3DGraphicsScene)
+An interactive 3D graphics application as part of  **the Computer Graphics course (COMP 371)** at Concordia University.
+
+#### [Butler](https://github.com/eimcharles/Butler)
+Condo management application offering a robust solution for efficiently managing condominium properties as part of **the Software Engineering Team Design Project course (SOEN 390).** 
+
+#### [Flight Tracking System](https://github.com/eimcharles/FlightTrackingSystem)
+Flight Tracking System that allows different types of clients to view, register, and manage flight information as part of **SOEN 342 (Software Requirements and Specifications)**.
+
