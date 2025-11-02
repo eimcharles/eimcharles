@@ -12,6 +12,9 @@ I'm a recent Software Engineering graduate from Concordia University.<br>
   - Learning and building **AI agents** with Hugging Face.
   - **Exploring data engineering**, including data pipelines, storage solutions, and ETL processes.
 
+### Personal Projects  
+🚀 On the way – exciting projects in development!
+
 ### Academic Projects  
 
 #### [Smartess](https://smartess.vercel.app/)
