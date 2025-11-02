@@ -5,8 +5,8 @@ I'm a recent Software Engineering graduate from Concordia University.<br>
 ### Continuous Development 
 
 #### Current Initiatives
-- Improving my **Spring Boot** knowledge to build and support robust **backend applications**   
-- Improving my **React** and **Angular** skills to create dynamic and responsive **frontend applications**  
+- Improving my **Spring Boot** knowledge to build and support robust **backend applications**.   
+- Improving my **React** and **Angular** skills to create dynamic and responsive **frontend applications**. 
 
 #### New Initiatives
   - Learning and building **AI agents** with Hugging Face.
