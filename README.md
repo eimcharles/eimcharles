@@ -13,7 +13,9 @@ I'm a recent Software Engineering graduate from Concordia University.<br>
   - **Exploring data engineering**, including data pipelines, storage solutions, and ETL processes.
 
 ### Personal Projects  
-🚀 On the way – exciting projects in development!
+
+#### [Car Booking System](https://github.com/eimcharles/CarBookingSystem) (In Progress 🚀)
+A car booking command-line interface (CLI) system designed for a car company administrator which emphasizes **core Java OOP principles, clean code, and clean architecture** and intentionally avoids advanced tools and frameworks to maintain clarity, simplicity, and architectural integrity.
 
 ### Academic Projects  
 
