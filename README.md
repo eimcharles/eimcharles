@@ -22,9 +22,6 @@ A car booking system for a car company administrator, built with a **focus on co
 #### [Smartess](https://smartess.vercel.app/)
 A smart home management platform for residential communities that connects tenants and property owners through real-time monitoring, automated communication, and intelligent home automation as part of **the Capstone Project course (SOEN 490)** at Concordia University. 
 
-#### [Butler](https://github.com/eimcharles/Butler)
-A Condo management application that provides a platform for condo owners, rental users, and management companies to streamline property-related activities and communication as part of **the Software Engineering Team Design Project course (SOEN 390)** at Concordia University.  
-
 #### [Interactive 3D Graphics Scene](https://github.com/eimcharles/Interactive3DGraphicsScene)
 An interactive 3D graphics application as part of  **the Computer Graphics course (COMP 371)** at Concordia University.
 
