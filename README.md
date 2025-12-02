@@ -5,7 +5,7 @@ I'm a recent Software Engineering graduate from Concordia University.<br>
 ### Continuous Development 
 
 #### Current Initiatives
-- Improving my **Maven / Spring Boot** knowledge to build and support robust **backend applications**.   
+- Improving my **Maven** and **Spring Boot** knowledge to build and support robust **backend applications**.   
 - Improving my **React** and **Angular** skills to create dynamic and responsive **frontend applications**. 
 
 #### New Initiatives
