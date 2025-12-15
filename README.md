@@ -28,14 +28,14 @@ I'm a recent Software Engineering graduate from Concordia University.<br>
 #### [Smartess](https://smartess.vercel.app/)
 A smart home management platform for residential communities that connects tenants and property owners through real-time monitoring, automated communication, and intelligent home automation as part of **the Capstone Project course (SOEN 490)** at Concordia University. </br>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![Go](https://img.shields.io/badge/Go-1.x-00ADD8?logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js.-Frontend-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript.-Frontend-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js.-Backend-339933?logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-Backend-000000?logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Database-Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Containerization-Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Message%20Broker-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 
 #### [Interactive 3D Graphics Scene](https://github.com/eimcharles/Interactive3DGraphicsScene)
