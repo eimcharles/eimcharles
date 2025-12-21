@@ -15,13 +15,13 @@ I'm a recent Software Engineering graduate from Concordia University.<br>
 ## Recent Personal Projects  
 
 #### [Car Booking System](https://github.com/eimcharles/CarBookingSystem) (In Progress 🚀)
-**Release 1**: CLI Maven application that serves as a system for managing the car booking lifecycle. </br>
+#### [**Release 1: CLI Maven application that serves as a system for managing the car booking lifecycle.**](https://github.com/eimcharles/CarBookingSystem/blob/main/releaseOneDocs/README.md)
 
 ![Java](https://img.shields.io/badge/Java-21-007396?logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-4.0-C71A36?logo=apache-maven&logoColor=white)
 ![AssertJ](https://img.shields.io/badge/Assertions-AssertJ-FFD166?logo=assertj&logoColor=black)
 
-**Release 2 (In Progress 🚀):** Spring boot API that serves as a system for managing the car booking lifecycle. </br>
+#### **Release 2 (In Progress 🚀):** Spring boot API that serves as a system for managing the car booking lifecycle. </br>
 
 ## Recent Academic Projects  
 
