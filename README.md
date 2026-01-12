@@ -21,7 +21,7 @@ I'm a recent Software Engineering graduate from Concordia University.<br>
 ![Maven](https://img.shields.io/badge/Maven-4.0-C71A36?logo=apache-maven&logoColor=white)
 ![AssertJ](https://img.shields.io/badge/Assertions-AssertJ-FFD166?logo=assertj&logoColor=black)
 
-#### [**Release 2: Spring Boot REST API modernization to support persistent storage, security, and web-integration.**](https://github.com/eimcharles/CarBookingSystem/blob/main/releaseTwoDocs/README.md)
+#### [**Release 2: Spring Boot modernization to support persistent storage, security, and web-integration.**](https://github.com/eimcharles/CarBookingSystem/blob/main/releaseTwoDocs/README.md)
 
 ## Recent Academic Projects  
 
