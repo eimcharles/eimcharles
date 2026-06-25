@@ -15,5 +15,5 @@ I'm a recent Software Engineering graduate from Concordia University.<br>
 - **Exploring data engineering**, including data pipelines, storage solutions, and ETL processes.
 
 
-Let's Connect 💬 ! [linkedin.com/in/charles-eimer](https://linkedin.com/in/charles-eimer)
-
+💬 [Let's Connect](https://linkedin.com/in/charles-eimer)</br>
+👨‍💻 [Personal Porfolio](https://eimcharles.github.io/)</br>
